@@ -13,7 +13,7 @@ build. gradle
 ```
 
 If You Have Run This Project Before
-You can copy this file
+You can copy this file ( Optional )
 
 * `ws/WebSocketManager`
 * `command/LinkAccount`
@@ -24,8 +24,7 @@ You can copy this file
 
 Or, You Can Download This Repo Then copy src folder to your matscraft prev project 
 
-and `build.grade` & `gradle.properties` 
-
+copy `build.grade` & `gradle.properties` 
 Then Sync Gradle To Install Required Dependencies.
 
 ## don't forget to set the websocket url from nexus backend
